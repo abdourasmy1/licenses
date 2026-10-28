@@ -24,6 +24,14 @@
       "status": "revoked",
       "start_date": "2026-10-01T00:00:00Z",
       "end_date": "2026-10-31T00:00:00Z"
-    }
+    },
+{
+  "license_id": "LIC-000123",
+  "device_id": "PM-2B7E-56D3-9F6A-3173",
+  "license_type": "paid",
+  "status": "active",
+  "start_date": "2026-10-28T00:00:00Z",
+  "end_date": "2027-10-28T00:00:00Z"
+}
   ]
 }
