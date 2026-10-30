@@ -1,6 +1,15 @@
 {
   "version": 1,
-  "licenses": [],
-  "issued_at": "2026-10-30T15:37:55Z",
-  "signature": "574yD0C6WUW8e/DbBh/SzBeGWxpnjHl6dkviWdI9hmaweRfeTze7lEX1gYI19XSEemzyZrqons10PwqkGLeWAA=="
+  "licenses": [
+    {
+      "license_id": "LIC-MVV50ZPO-DHWZEF",
+      "device_id": "PM-2B7E-56D3-9F6A-3173",
+      "license_type": "paid",
+      "status": "active",
+      "start_date": "2026-10-30T00:00:00Z",
+      "end_date": "2026-11-01T00:00:00Z"
+    }
+  ],
+  "issued_at": "2026-10-30T15:39:18Z",
+  "signature": "rdg5BX2rkZYtSSM52GIcG8PWwLhvjIJxEHujptAzZpzTmaIwicH689//6Ej87XOzjUclbRksEbIuZCdkvQViDQ=="
 }
