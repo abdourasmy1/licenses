@@ -5,11 +5,11 @@
       "license_id": "LIC-MVV50ZPO-DHWZEF",
       "device_id": "PM-2B7E-56D3-9F6A-3173",
       "license_type": "paid",
-      "status": "active",
+      "status": "revoked",
       "start_date": "2026-10-30T00:00:00Z",
       "end_date": "2026-11-01T00:00:00Z"
     }
   ],
-  "issued_at": "2026-10-30T15:39:18Z",
-  "signature": "rdg5BX2rkZYtSSM52GIcG8PWwLhvjIJxEHujptAzZpzTmaIwicH689//6Ej87XOzjUclbRksEbIuZCdkvQViDQ=="
+  "issued_at": "2026-10-30T15:43:23Z",
+  "signature": "7gGT57fpKBAC9X0KmBg5v4CGMdKLQ5nI87gCS8j6cR7EVaArkfLKUC4t2Pmlb6O7rXe6vuVM3xueGbyNgl/rAw=="
 }
