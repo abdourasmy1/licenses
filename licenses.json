@@ -1,15 +1,6 @@
 {
   "version": 1,
-  "licenses": [
-    {
-      "license_id": "LIC-MVV5A7SL-PVA2JV",
-      "device_id": "PM-2B7E-56D3-9F6A-3173",
-      "license_type": "trial",
-      "status": "active",
-      "start_date": "2026-10-30T00:00:00Z",
-      "end_date": "2026-11-01T00:00:00Z"
-    }
-  ],
-  "issued_at": "2026-10-30T15:46:29Z",
-  "signature": "OboBoukd8L+5CmRE2ohaNmGvG2DM67b31ck+7WpVUQRIVmFuk5OGBuUZVPOX5s/ytnEXgTomoQJJtHSn+b3DCg=="
+  "licenses": [],
+  "issued_at": "2026-10-30T15:47:14Z",
+  "signature": "Vw5atbpqDDVHKIOmaQ28ByKqoFpY3on36D5XC6yrwgjlTVV5fs+MQN5L16v4rt52MhowPrr4/uP6w8iycw9WAQ=="
 }
