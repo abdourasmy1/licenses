@@ -61,11 +61,11 @@
       "license_id": "LIC-0007",
       "device_id": "PM-2B7E-56D3-9F6A-3173",
       "license_type": "trial",
-      "status": "active",
+      "status": "revoked",
       "start_date": "2026-10-28T00:00:00Z",
       "end_date": "2026-10-29T00:00:00Z"
     }
   ],
-  "issued_at": "2026-10-30T14:08:09Z",
-  "signature": "4nS/VCMUugnQFOuLqUNNdaTi2GsUxxIrH+n0oizx8u6VSqD834LwdCDQErRqqr4ml5ad4RK5DwIJweKl+Gn2Cw=="
+  "issued_at": "2026-10-30T14:08:45Z",
+  "signature": "oc+WdXCIDzvjFG4ikofpOuM8qiNL08gt2EiD8IG/X/jOZfjNwPzXuMOtxEj4jbdhvKJ9snh+1fhpPLssOFxqCA=="
 }
