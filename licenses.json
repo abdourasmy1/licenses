@@ -8,16 +8,8 @@
       "status": "active",
       "start_date": "2026-10-30T00:00:00Z",
       "end_date": "2026-11-30T00:00:00Z"
-    },
-    {
-      "license_id": "LIC-000123",
-      "device_id": "PM-2B7E-56D3-9F6A-3173",
-      "license_type": "paid",
-      "status": "revoked",
-      "start_date": "2026-10-28T00:00:00Z",
-      "end_date": "2026-10-29T00:00:00Z"
     }
   ],
-  "issued_at": "2026-10-30T15:32:53Z",
-  "signature": "N6WYAUixsLicy9+KI80UKRlnXEQwRkLCDvrHM+3BNMas67h9iGxKlaXXEFwxrpufSjv2G93xQE/DJigjx7/5Ag=="
+  "issued_at": "2026-10-30T15:33:09Z",
+  "signature": "Q/UiZyww3EQt3Um8u/ObXK7u59Bm9UrG+USjZVMmUBTjPBEoopc9p2clqGM8CYuVqoW2TLV5kJ2lM0nLAjrqAg=="
 }
