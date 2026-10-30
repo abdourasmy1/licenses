@@ -45,7 +45,7 @@
       "license_id": "LIC-0005",
       "device_id": "PM-2B7E-56D3-9F6A-3173",
       "license_type": "trial",
-      "status": "active",
+      "status": "revoked",
       "start_date": "2026-10-28T06:22:36Z",
       "end_date": "2027-10-28T11:31:53Z"
     },
@@ -66,6 +66,6 @@
       "end_date": "2027-10-29T00:00:00Z"
     }
   ],
-  "issued_at": "2026-10-30T14:02:33Z",
-  "signature": "G8M10lnyCA040O/evmG9gzdnlBsNnKXfCcMU04ImKnJX0OzXRgPI3VzDtj5n9dibtTdSR8XiD1Fb2+TSPo27Cg=="
+  "issued_at": "2026-10-30T14:02:44Z",
+  "signature": "hmzyc6X3RXLw6r1aemoaFPlWU+Bk4QdUon0VG/sPkrdYlO48njS8gmwb32IRdUM+6RHmsQ7Dh3uwIplGO/8oCA=="
 }
