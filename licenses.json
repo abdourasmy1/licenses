@@ -53,7 +53,7 @@
       "license_id": "LIC-0006",
       "device_id": "DV-D74E-0385-A60E-635A",
       "license_type": "paid",
-      "status": "active",
+      "status": "revoked",
       "start_date": "2026-10-28T09:05:40Z",
       "end_date": "2027-10-28T09:05:40Z"
     },
@@ -66,6 +66,6 @@
       "end_date": "2027-10-29T00:00:00Z"
     }
   ],
-  "issued_at": "2026-10-30T14:02:44Z",
-  "signature": "hmzyc6X3RXLw6r1aemoaFPlWU+Bk4QdUon0VG/sPkrdYlO48njS8gmwb32IRdUM+6RHmsQ7Dh3uwIplGO/8oCA=="
+  "issued_at": "2026-10-30T14:02:49Z",
+  "signature": "wKNjM8Aj6dYSFpd2lujTWBi+Ae+Kz2GzQ1BVjDPxxuV0/kiHxJsCYMphokyA5rfM9Uxc2vBYGqlvyTthkZ/QAA=="
 }
