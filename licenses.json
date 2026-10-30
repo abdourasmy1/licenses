@@ -31,7 +31,7 @@
       "license_type": "paid",
       "status": "revoked",
       "start_date": "2026-10-28T00:00:00Z",
-      "end_date": "2027-10-28T00:00:00Z"
+      "end_date": "2026-10-29T00:00:00Z"
     },
     {
       "license_id": "LIC-0004",
@@ -66,6 +66,6 @@
       "end_date": "2026-10-29T00:00:00Z"
     }
   ],
-  "issued_at": "2026-10-30T14:07:57Z",
-  "signature": "hKWYljd49vJqC9CJyCxRGJVnFGqX+ZbQ8d3Uwip+qnqcgI97LuoeI4C51R+GNap2CgmxTGKCnHunucHbAUPbDg=="
+  "issued_at": "2026-10-30T14:08:09Z",
+  "signature": "4nS/VCMUugnQFOuLqUNNdaTi2GsUxxIrH+n0oizx8u6VSqD834LwdCDQErRqqr4ml5ad4RK5DwIJweKl+Gn2Cw=="
 }
