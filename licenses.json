@@ -34,14 +34,6 @@
       "end_date": "2026-10-29T00:00:00Z"
     },
     {
-      "license_id": "LIC-0004",
-      "device_id": "PM-5D5EFB8C29313060D98EA637",
-      "license_type": "paid",
-      "status": "revoked",
-      "start_date": "2026-10-27T16:25:08Z",
-      "end_date": "2026-10-30T16:25:08Z"
-    },
-    {
       "license_id": "LIC-0005",
       "device_id": "PM-2B7E-56D3-9F6A-3173",
       "license_type": "trial",
@@ -50,6 +42,6 @@
       "end_date": "2026-10-29T00:00:00Z"
     }
   ],
-  "issued_at": "2026-10-30T15:32:31Z",
-  "signature": "OMrBaLNRhMJfe7DP7yS1iXFF9hC6iFS6ko6VeI4M3hUySOBj4zVOc/XLltg0iqHAE30Q6WfvMF/3pCtakd9WCA=="
+  "issued_at": "2026-10-30T15:32:37Z",
+  "signature": "+sC9SNyaFf4P+Rd4JULQDeJlIns/UKtFPf5dcoOhWs4FTqsT9Ej+wPYzieTMppQ9RJvPnYP07e8JQcNID+2nDQ=="
 }
