@@ -1,15 +1,6 @@
 {
   "version": 1,
-  "licenses": [
-    {
-      "license_id": "LIC-MVV5F235-H3EBBF",
-      "device_id": "PM-2B7E-56D3-9F6A-3173",
-      "license_type": "paid",
-      "status": "active",
-      "start_date": "2026-10-30T00:00:00Z",
-      "end_date": "2026-11-12T00:00:00Z"
-    }
-  ],
-  "issued_at": "2026-10-31T07:34:14Z",
-  "signature": "e4I4JTh8zgDSFk7Gf6rmmRdF8RqhzTi4Z+qA2Wm0l2gOIoSMS73e5vWkk8L43ScgJxo/ADv2kCLAW/1a8yh/Cg=="
+  "licenses": [],
+  "issued_at": "2026-10-31T07:34:54Z",
+  "signature": "5Lnw+gbDr2nAVwxjpC2k2nLeM3Ut8BmM+AsdEtMNPa+8zpuRB64WoVufvCcjhkRkhBd/0T5RBoO5Cf8VZya3Cw=="
 }
