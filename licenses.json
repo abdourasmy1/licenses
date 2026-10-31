@@ -4,12 +4,12 @@
     {
       "license_id": "LIC-MVW7A8M8-M9KEXG",
       "device_id": "PM-2B7E-56D3-9F6A-3173",
-      "license_type": "paid",
+      "license_type": "trial",
       "status": "active",
       "start_date": "2026-10-31T00:00:00Z",
-      "end_date": "2026-11-05T00:00:00Z"
+      "end_date": "2026-11-18T00:00:00Z"
     }
   ],
-  "issued_at": "2026-10-31T09:54:59Z",
-  "signature": "5yTsqKNSgYv3gGgjRNN+Io6MMprS+2FkhFr66IGD0xag5sOblD8vdCI/WDlD/zz7hQqVgLckNlpLb0qyAQiWBQ=="
+  "issued_at": "2026-10-31T10:00:15Z",
+  "signature": "2JHgtXhmLqTvBZIi8HeF/E4XLztS6/lXz4OhvsTLyMQEj2HKHjkPsfjUwMCGLXJkRx15VbFgMdE4EM6FvqX8CQ=="
 }
