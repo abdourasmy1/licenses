@@ -6,7 +6,7 @@
       "device_id": "DV-D74E-0385-A60E-635A",
       "license_type": "paid",
       "status": "active",
-      "start_date": "2026-11-05T00:00:00Z",
+      "start_date": "2026-11-04T00:00:00Z",
       "end_date": "2026-12-06T00:00:00Z"
     },
     {
@@ -18,6 +18,6 @@
       "end_date": "2026-12-05T00:00:00Z"
     }
   ],
-  "issued_at": "2026-11-04T23:20:17Z",
-  "signature": "Xk5tReDAZM7mYG/XwXOTBAa12FPmjDN5nXFZN+mTF5ke/fvh2J/XHjbZZkaR8smHvD/AA0yM8qRM9UFcCMr3Bg=="
+  "issued_at": "2026-11-04T23:21:18Z",
+  "signature": "3cFg/68b3MJy6VZs4q3fM2T8L1oazJ4UoaLtZ/pImyqY4gE3fdOluUjrWHvo6Qk52b/LM3gJ27d6EiCOGOCnBQ=="
 }
