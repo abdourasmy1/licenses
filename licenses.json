@@ -2,6 +2,14 @@
   "version": 1,
   "licenses": [
     {
+      "license_id": "LIC-MWCUHNLK-4ZQ9NR",
+      "device_id": "PM-DA10-2823-1241-267C",
+      "license_type": "paid",
+      "status": "active",
+      "start_date": "2026-11-12T00:00:00Z",
+      "end_date": "2026-12-13T00:00:00Z"
+    },
+    {
       "license_id": "LIC-MW2QP2SK-5E4O04",
       "device_id": "DV-D74E-0385-A60E-635A",
       "license_type": "paid",
@@ -18,6 +26,6 @@
       "end_date": "2026-12-05T00:00:00Z"
     }
   ],
-  "issued_at": "2026-11-04T23:21:18Z",
-  "signature": "3cFg/68b3MJy6VZs4q3fM2T8L1oazJ4UoaLtZ/pImyqY4gE3fdOluUjrWHvo6Qk52b/LM3gJ27d6EiCOGOCnBQ=="
+  "issued_at": "2026-11-12T01:04:11Z",
+  "signature": "T3Kb5W1/3s2JOE4oxPQ8aI8i7ZX1tSfcIyiwEpm2El51h9lA6nTtC2rv9HABd6SBqWAibBCixo04oOgliuw8Cg=="
 }
